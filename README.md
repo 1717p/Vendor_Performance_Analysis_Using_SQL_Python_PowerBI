@@ -70,8 +70,9 @@ operational efficiency.
 ---
 
 
-### 📎 Project Presentation
-[Click here to view detailed project Report]./VENDOR PERFORMANCE ANALYSIS REPORT.pdf
+
+### 📎 Project Report
+[Click here to view detailed report](./VENDOR PERFORMANCE ANALYSIS REPORT.pdf)
 
 ---
 
