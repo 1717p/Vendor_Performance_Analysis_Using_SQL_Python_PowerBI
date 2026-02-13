@@ -4,7 +4,7 @@
 
 Effective inventory and sales management are crucial for optimizing profitability in the retail and wholesale sectors. This project focuses on identifying inefficiencies and unlocking insights from transactional and inventory data to support data-driven decision-making.
 
-### 🧩 Business Objectives
+## 🧩 Business Objectives
 
 The goal of this analysis is to:
 
@@ -66,6 +66,12 @@ margins.
 * By implementing these recommendations, the company can achieve 
 sustainable profitability, mitigate risks, and enhance overall 
 operational efficiency.
+
+---
+
+
+### 📎 Project Presentation
+[Click here to view detailed project PPT](./YourFileName.pptx)
 
 ---
 
